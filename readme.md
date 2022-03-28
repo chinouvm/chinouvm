@@ -3,6 +3,8 @@
 
 ## 🚀 About Me
 
+- 📖 I'm a **HBO-ICT & Infrastructer** student and I'm in my **second** semester.
+
 - 🌱 I’m currently learning **Go, Python, C, C++**
 
 - 📫 How to reach me **me@chinou.nl**
