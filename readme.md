@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinou</h1>
+<p align="left"><img src="https://db3pap001files.storage.live.com/y4maH_eoQObgm-vxkaknSYd0UvIwuHonEmeTOlEqXl6hKKB_77MKWmNZAbyfD84qq-PeyeOnHLxATsVsbwBbxRdYw1C2I9ITjPWkTiU_FD8QpJQRjnkua0TyZvRxBEyv_mp1XFmMsAeuDyHUODW5BmpcHxU8GAFXibWnQayFIvvOUQtGKtqbXL9dZciFBSXlS3K?width=5000&height=479&cropmode=none">
 <h3 align="center">Student at Fontys ICT</h3>
 
 ## 🚀 About Me
