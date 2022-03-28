@@ -1,5 +1,5 @@
 <p align="left"><img src="https://db3pap001files.storage.live.com/y4myMdjnvuVvTQlHK4CMzlxm92Wi6XWPQgLI6vyU2ciqzhfDXt-Dz8G0ls79dkS-y5KVzjKY2NoH0WGjgaNqXxmA9xhN65BDMNip22aCCqei6NlBtE6iJhjatdzEuKpthNtINTdsgpW3GzuvywR12im2XfewpedZmKa26Dxu0Q1DoudZFW-wqOVQwm-ZEWw7HHg?width=5000&height=479&cropmode=none">
-<h3 align="center">Student at Fontys ICT</h3>
+<h3 align="center">Student at <a href="https://fontys.nl/Over-Fontys/Fontys-Hogeschool-ICT.htm">Fontys ICT</a></h3>
 
 ## 🚀 About Me
 
