@@ -5,7 +5,7 @@
 
 - 📖 I'm a **ICT & Infrastructure** student and I'm in my **second** semester.
 
-- 🌱 I’m currently learning **Go, Python, C, C++**
+- 🌱 I’m currently practicing **Go, Python, C++, and Docker**
 
 - 📫 How to reach me **me@chinou.nl**
 
