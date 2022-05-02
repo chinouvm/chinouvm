@@ -13,8 +13,27 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinouvanmaris/)
 
-## 🛠 Languages and Tools
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+## 🛠 Tools & Languages
+<p>
+  <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-4834d4?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt=Python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=white" /> 
+  <img alt=Go" src="https://img.shields.io/badge/-Go-007D9C?style=flat-square&logo=go&logoColor=white" />
+  <img alt=CPP" src="https://img.shields.io/badge/-C++-6295CB?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt=Docker" src="https://img.shields.io/badge/-Docker-002C66?style=flat-square&logo=docker&logoColor=white" />
+  <img alt=Git" src="https://img.shields.io/badge/-Git-F03C2E?style=flat-square&logo=git&logoColor=white" />
+  <img alt=Arduino" src="https://img.shields.io/badge/-Arduino FW-18969C?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt=React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt=Vue" src="https://img.shields.io/badge/-Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt=Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt=Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt=VSCode" src="https://img.shields.io/badge/-Visual Studio Code-2C2C32?style=flat-square&logo=visualstudiocode&logoColor=20A4F0" />
+  <img alt=Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DD4814?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt=Kali Linux" src="https://img.shields.io/badge/-Kali Linux-2687F0?style=flat-square&logo=kalilinux&logoColor=white" />
+</p>
+
+## 🏃🏻‍♂️ Activity
+![ActivityStats](https://github-readme-stats.vercel.app/api?username=chinouvm)
 
 ## 💸 Support
 
